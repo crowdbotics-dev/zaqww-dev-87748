@@ -5,5 +5,6 @@ class Sweer23(models.Model):
     mnhyu = models.BigIntegerField()
     smnv6 = models.BigIntegerField(null=True,blank=True,)
     mjui888 = models.FloatField(null=True,blank=True,)
+    bvr34 = models.BigIntegerField(null=True,blank=True,)
 
 # Create your models here.
